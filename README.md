@@ -4,6 +4,7 @@
 
 ## 数组
 [两数之和](https://github.com/tiannT/Algorithm-Note/blob/main/%E6%95%B0%E7%BB%84%E7%B3%BB%E5%88%97/01.md)
+[两个数组的交集](https://github.com/tiannT/Algorithm-Note/blob/main/%E6%95%B0%E7%BB%84%E7%B3%BB%E5%88%97/02.md)
 
 ## 链表
 
