@@ -7,7 +7,12 @@
 
 [两个数组的交集](https://github.com/tiannT/Algorithm-Note/blob/main/%E6%95%B0%E7%BB%84%E7%B3%BB%E5%88%97/02.md)
 
+[二分查找](https://github.com/tiannT/Algorithm-Note/blob/main/%E6%95%B0%E7%BB%84%E7%B3%BB%E5%88%97/03.md)
+
 
 ## 链表
 
 ## 树
+
+公众号：编程机器猫
+![示意图](数组系列/pictures/qrcode_for_gh_6be74ac1c5fb_258.jpg)
