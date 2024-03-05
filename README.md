@@ -9,6 +9,8 @@
 
 [二分查找](https://github.com/tiannT/Algorithm-Note/blob/main/%E6%95%B0%E7%BB%84%E7%B3%BB%E5%88%97/03.md)
 
+[移除数组元素](https://github.com/tiannT/Algorithm-Note/blob/main/%E6%95%B0%E7%BB%84%E7%B3%BB%E5%88%97/04.md)
+
 
 ## 链表
 
