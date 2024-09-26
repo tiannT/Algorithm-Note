@@ -15,6 +15,3 @@
 ## 链表
 
 ## 树
-
-公众号：编程机器猫
-![示意图](数组系列/pictures/qrcode_for_gh_6be74ac1c5fb_258.jpg)
